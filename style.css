@@ -4,7 +4,7 @@
 	font-family: 'InactiveCaption', sans-serif;
 }
 #banner{
-	background:url(images/banner.jpg);
+	background:url(banner.jpg);
 	background-size:cover;
 	background-position:center;
 	height:90vh
